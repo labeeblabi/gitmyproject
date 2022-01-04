@@ -1,0 +1,10 @@
+$ git config --global user.name "King Kong"
+$ git config --global user.email "king-kong@gmail.com"
+$ git config --global color.ui true
+$ git config --list
+user.name=King Kong
+user.email=king-kong@gmail.com
+$ git status
+On branch master
+Initial commit
+nothing to commit (create/copy files and use "git add" 
